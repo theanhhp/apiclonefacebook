@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Theanh.apiclonefacebook.ApiCloneFacebookApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.796 s - in com.Theanh.apiclonefacebook.ApiCloneFacebookApplicationTests

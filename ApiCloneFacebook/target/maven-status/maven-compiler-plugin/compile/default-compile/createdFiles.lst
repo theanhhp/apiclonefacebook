@@ -1,0 +1,8 @@
+com\Theanh\apiclonefacebook\dto\response\ResponseCloneLongBien.class
+com\Theanh\apiclonefacebook\dto\response\ModelData.class
+com\Theanh\apiclonefacebook\ApiCloneFacebookApplication.class
+com\Theanh\apiclonefacebook\dto\response\ResponseModel.class
+com\Theanh\apiclonefacebook\servicel\ServiceFaceBook.class
+com\Theanh\apiclonefacebook\api\ApiCloneFacbook.class
+com\Theanh\apiclonefacebook\dto\response\ModelLists.class
+com\Theanh\apiclonefacebook\servicel\implservicel\implServiceFaceBook.class
